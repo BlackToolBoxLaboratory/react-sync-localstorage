@@ -1,7 +1,7 @@
 const gulp = require('gulp');
 const del = require('del');
 
-const path_backup = '../codebase/react-popup';
+const path_backup = '../codebase/react-sync-localstorage';
 
 gulp.task('backup', async function(done) {
   /* clean files */
@@ -12,6 +12,7 @@ gulp.task('backup', async function(done) {
     .pipe(gulp.dest(`${path_backup}/module/`));
   /* others */
   gulp.src([
+    '.babelrc',
     '.eslintrc.js',
     '.gitignore',
     'LICENSE',
