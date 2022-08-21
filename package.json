@@ -1,7 +1,7 @@
 {
   "name": "@blacktoolbox/react-sync-localstorage",
   "packageName": "btblab-react-sync-localstorage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A component for sync data from localstorage on React.",
   "keywords": [
     "blacktoolbox",
