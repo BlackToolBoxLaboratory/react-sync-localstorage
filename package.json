@@ -1,7 +1,7 @@
 {
   "name": "@blacktoolbox/react-sync-localstorage",
   "packageName": "btblab-react-sync-localstorage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A component for sync data from localstorage on React.",
   "keywords": [
     "blacktoolbox",
@@ -40,7 +40,7 @@
   },
   "homepage": "https://blacktoolboxlaboratory.github.io/react/v2/#/packages/sync-localstorage",
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": "=>16.8.0"
   },
   "dependencies": {
     "classnames": "^2.2.6"
