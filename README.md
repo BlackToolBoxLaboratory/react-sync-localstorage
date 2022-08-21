@@ -6,7 +6,7 @@ A component for sync data from localstorage with [React](https://facebook.github
 
 Using with [NPM](https://www.npmjs.com/):
 
-    $ npm install --save @blacktoolbox/react-popup
+    $ npm install --save @blacktoolbox/react-sync-localstorage
 
     // using ES6 modules
     import { SyncLocalStorageProvider, useSyncLocalStorage } from '@blacktoolbox/react-sync-localstorage';
