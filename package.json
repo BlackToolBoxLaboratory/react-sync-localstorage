@@ -40,7 +40,7 @@
   },
   "homepage": "https://blacktoolboxlaboratory.github.io/react/v2/#/packages/sync-localstorage",
   "peerDependencies": {
-    "react": "=>16.8.0"
+    "react": ">=16.8.0"
   },
   "dependencies": {
     "classnames": "^2.2.6"
